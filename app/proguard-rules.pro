@@ -1,0 +1,5 @@
+-keepattributes *Annotation*
+-keep class com.bandit.came.data.local.entity.** { *; }
+-keep class com.bandit.came.receiver.** { *; }
+-keep class com.bandit.came.service.** { *; }
+-keep class com.bandit.came.alert.** { *; }

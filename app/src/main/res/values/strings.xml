@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">土匪来了</string>
+    <string name="notification_channel_monitor">短信监控服务</string>
+    <string name="notification_channel_alert_weak">弱提醒</string>
+    <string name="notification_channel_alert_strong">强提醒</string>
+    <string name="notification_monitor_title">土匪来了正在守护</string>
+    <string name="notification_monitor_text">短信监控运行中</string>
+    <string name="notification_permission_warning">权限不足，点击修复</string>
+</resources>
